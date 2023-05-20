@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\data",
+    "\\lib\\screens",
+    "\\lib\\widgets",
+    "\\lib\\widgets\\expenses_list"
+  ],
+  "SelectedNode": "\\lib\\data\\expense.dart",
+  "PreviewInSolutionExplorer": false
+}
